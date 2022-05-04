@@ -20,6 +20,7 @@ As some original source codes are many years old and based on deprecated technol
  - `oswis-template-example-bundle`
 ### Client-side
  - `oswis-ng-modules`
+ - `seznamovak-up` (new client-side developed in 2021)
 
 ## Current repositories
 ### Server-side
