@@ -2,7 +2,7 @@
 Simple and modular web-based IS based on modern web technologies. OSWIS is set of Symfony bundles and Angular library modules designated to be used in Symfony and Angular projects. There are both example projects placed in repositories.
 
 ## History of OSWIS
-Originally, OSWIS was developed as part of @zakjakub's bachelor thesis and in parallel was used as base of information system for Seznamovak UP and some other projects.
+Originally, OSWIS was developed as part of @zakjakub's bachelor thesis and in parallel was used as base of information system for Seznamovak UP and some other projects. Development originally started somewhen about 2017 and ie. IS for Seznamovak UP was based on that historical iterations of OSWIS since its first versions.
 
 Finally, it was never submitted as part of bachelor thesis, but development continues and some projects, as IS for Seznamovak UP are still using OSWIS as their base.
 
