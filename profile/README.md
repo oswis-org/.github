@@ -22,7 +22,7 @@ As some original source codes are many years old and based on deprecated technol
  - `oswis-ng-modules`
  - `seznamovak-up` (new client-side developed in 2021)
 
-## Current repositories
+## Current repositories (2022+)
 ### Server-side
  - `server` (example server-side project)
  - `server-core-bundle` (core bundle for server-side)
