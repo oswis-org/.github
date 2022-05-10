@@ -9,7 +9,7 @@ Finally, it was never submitted as part of bachelor thesis, but development cont
 ## Present and futire of OSWIS
 As some original source codes are many years old and based on deprecated technologies and procedures, absolutelly new version is developed at the moment. As original implementation of OSWIS never reached v1.0.0, it's still named simply as OSWIS and we are targeting v1 in this new implementation.
 
-## Old/deprecated repositories
+## Legacy repositories (currently used)
 ### Server-side
  - `oswis-core-bundle`
  - `oswis-address-book-bundle`
