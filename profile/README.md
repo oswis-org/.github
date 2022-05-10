@@ -20,7 +20,7 @@ As some original source codes are many years old and based on deprecated technol
  - `oswis-template-example-bundle`
 ### Client-side
  - `oswis-ng-modules`
- - `seznamovak-up` (new client-side developed in 2021, Ionic 6 based)
+ - `seznamovak-up` ([new client-side](https://app.seznamovakup.cz/) developed in 2021, Ionic 6 based)
 
 ## Current repositories (2022+)
 ### Server-side
